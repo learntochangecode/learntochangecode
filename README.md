@@ -71,6 +71,8 @@
 
 <tr><td>
 
+ ### ✍ Study Project
+  
 🚩 已经学习
 ![Java Badge](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=fff&style=flat)
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
